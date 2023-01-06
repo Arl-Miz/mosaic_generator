@@ -25,7 +25,7 @@ python mosaic.py $block_size $target_image $dataset_path
 ```
 ## Example
 ```sh
-python3 mosaic_generator.py 33 assets/wci.jpg assets/cars
+python3 mosaic_generator.py 3 assets/wci.jpg assets/cars
 ```
 
 ![Original](assets/wci.jpg "original")  |  ![Mosaic](assets/3_sample_wci_output.png "mosaic")
