@@ -1,5 +1,5 @@
 # Mosaic_generator python application
-This is an mosaic generator python application/GUI application that generates mosaic photoos with python and OpenCv and futhur on the GUI it uses PyQt6
+This is an mosaic generator python application/GUI application that generates mosaic photoos with python and OpenCv and further on the GUI it uses PyQt6
 
 # GUI
 ## How to use
